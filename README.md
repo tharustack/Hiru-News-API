@@ -265,7 +265,7 @@ hiru-news-api/
 
 ### 📢 Stay updated with tech news and API updates
 
-**Telegram Channel:** [https://t.me/tharustack](https://t.me/tharustack)
+**Telegram Channel:** [https://t.me/trivenlab](https://t.me/trivenlab)
 
 Join for:
 - 🚀 API updates and new features
