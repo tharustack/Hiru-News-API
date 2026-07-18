@@ -335,7 +335,7 @@ Found a bug or have a feature request?
 
 - **API Issues:** Check `/api/health` first
 - **Scraping Problems:** Test with different article IDs
-- **Community:** Join [Telegram](https://t.me/tharustack)
+- **Community:** Join [Telegram](https://t.me/trivenlab)
 - **Urgent:** The API is self-hosted, no SLA guarantees
 
 ---
